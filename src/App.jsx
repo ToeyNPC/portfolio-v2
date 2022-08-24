@@ -170,14 +170,14 @@ function App() {
               <div className='project-card-pic'><img alt="Jamming Created your own spotify playlist" src={jammingPicture}/></div>
               <div className='project-card-head'><span>Jamming</span></div>
               <div className='project-card-text'>Website use to create playlist for spotify by API.Created using Javascript and React.</div>
-              <div className='more-btn'><button><a href='https://github.com/ToeyNPC/jamming' target="_blank">See More</a></button></div>
+              <div className='more-btn'><button><a href='https://13nuttapong.surge.sh/' target="_blank">See More</a></button></div>
            </div>
 
            <div className='projectCard'>
               <div className='project-card-pic'><img alt="Activity Tracker" src={trackerPicture}/></div>
               <div className='project-card-head'><span>Infinity Health</span></div>
               <div className='project-card-text'>Designed and created an Interactive website for an &quot;Activity Tracker&quot; that help you keep up with your excercise plan.</div>
-              <div className='more-btn'><button><a href='' target="_blank">See More</a></button></div>
+              <div className='more-btn'><button><a href='https://infinity-health.vercel.app/' target="_blank">See More</a></button></div>
            </div>
          </div>
          <div className='git-btn-container'>
