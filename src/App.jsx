@@ -32,7 +32,7 @@ function App() {
        <div className='aboutMe'>
          <div className='aboutContainer' id="me">
            <div className='aboutText'>
-             <div className='aboutHead' id="me"><h1>Hello, My Name is Nuttapong Charoenpru</h1></div>
+             <div className='aboutHead' id="me"><h1 className='Darkblue'>Hello, My Name is Nuttapong Charoenpru</h1></div>
              <div className='aboutBody'>&quot;Mechanical Engineering experience in design thinking and
                 problem solving looking to transition to a software developer.
                 Have just completed the junior software developer program and
@@ -47,7 +47,7 @@ function App() {
 
 
        <div className='education'>
-         <div className='TopicHead' id="edu"><h1>Education</h1></div>
+         <div className='TopicHead Darkblue' id="edu"><h1>Education</h1></div>
          <div className='educationList'>
            <div className='eductionDetail'>
             <h3 className="educationh3">
@@ -78,7 +78,7 @@ function App() {
 
 
        <div className='exp'>
-       <div className='TopicHead' id="exp"><h1>Experience</h1></div>
+       <div className='TopicHead Darkblue' id="exp"><h1>Experience</h1></div>
 
          <div className='expList'>
            <div className='expDate'><p>2018-2020</p><p>2021-2022</p></div>
@@ -94,20 +94,6 @@ function App() {
           </div>
 
          <div className='expList'>
-           <div className='expDate'>2012-2017</div>
-           <div className='expDetail'>
-             <h3 className="exph3">
-               Technician at EGAT Lamtakong learning center
-             </h3>
-             <ul className='expDetailList'>
-               <li>Planned and cooperated with 8 suppliers for device maintenance</li>
-               <li>Created maintenance reports and presentations using Microsoft Word, Excel, and PowerPoint</li>
-               <li>Designed and Implemented working rutine for techinician</li>
-             </ul>
-           </div>
-          </div>
-
-          <div className='expList'>
            <div className='expDate'>2012-2017</div>
            <div className='expDetail'>
              <h3 className="exph3">
