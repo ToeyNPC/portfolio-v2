@@ -114,7 +114,7 @@ function App() {
                Receptionist at Koh Chang Longstay Resort
              </h3>
              <ul className='expDetailList'>
-               <li>Experienced communicating in English with more than 200 peoples</li>
+               <li>Experienced communicating in English with more than 100 peoples</li>
              </ul>
            </div>
           </div>
