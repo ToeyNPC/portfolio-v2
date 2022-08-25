@@ -94,7 +94,7 @@ function App() {
           </div>
 
          <div className='expList'>
-           <div className='expDate'>2012-2017</div>
+           <div className='expDate'>2020-2021</div>
            <div className='expDetail'>
              <h3 className="exph3">
                Technician at EGAT Lamtakong learning center
